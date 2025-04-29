@@ -1,5 +1,6 @@
 
-<img src="/banner.png" alt="Hasibul Hossain Shanto Banner" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/ShantoD0/ShantoD0/main/banner.png" alt="Hasibul Hossain Shanto Banner" style="width:100%;"/>
+
 # Hi there 👋, I'm Hasibul Hossain Shanto  
 ### Aspiring MERN Stack Developer | Building the Future of the Web
 
