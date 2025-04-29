@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hasibul Hossain Shanto</h1>
 <h3 align="center">Aspiring MERN Stack Developer | Building the Future of the Web</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+web+with+purpose.;Code.+Learn.+Build.+Repeat.;Crafting+clean%2C+fast+UIs.;Dream+big%2C+code+smart.;Passion+meets+JavaScript.;Turning+logic+into+beauty.)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/ShantoD0">
