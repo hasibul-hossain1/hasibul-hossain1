@@ -1,7 +1,7 @@
 ![Hasibul Hossain Shanto Banner](https://raw.githubusercontent.com/ShantoD0/ShantoD0/main/banner1.png)
 
 
-# Hi there 👋, I'm Hasibul Hossain Shanto  
+# Hi there 👋, I'm Hasibul Hossain 
 ### Aspiring MERN Stack Developer | Building the Future of the Web
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+web+with+purpose.;Code.+Learn.+Build.+Repeat.;Crafting+clean%2C+fast+UIs.;Dream+big%2C+code+smart.;Passion+meets+JavaScript.;Turning+logic+into+beauty.)](https://git.io/typing-svg)
@@ -34,8 +34,9 @@ As a proud member of the **Programming Hero Community**, I thrive on building dy
 ---
 
 ## 📫 Let's Connect  
-- 💻 GitHub: [ShantoD0](https://github.com/ShantoD0)  
-- 🌐 Facebook: [Shant0D](https://facebook.com/Shant0D)  
+- 💻 GitHub: [ShantoD0](https://github.com/hasibul-hoassin1)  
+- 🌐 Linkedin: [Shant0D](https://facebook.com/hasibul-hoassin1)  
+- 🌐 Facebook: [Shant0D](https://facebook.com/hasibulhoassin01)  
 - 📞 WhatsApp: [+8801701084479](https://wa.me/8801701084479)  
 
 > **Let’s build something amazing together! 🚀**
