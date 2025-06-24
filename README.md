@@ -34,9 +34,9 @@ As a proud member of the **Programming Hero Community**, I thrive on building dy
 ---
 
 ## 📫 Let's Connect  
-- 💻 GitHub: [ShantoD0](https://github.com/hasibul-hoassin1)  
-- 🌐 Linkedin: [Shant0D](https://facebook.com/hasibul-hoassin1)  
-- 🌐 Facebook: [Shant0D](https://facebook.com/hasibulhoassin01)  
-- 📞 WhatsApp: [+8801701084479](https://wa.me/8801701084479)  
+- 💻 GitHub: [Link](https://github.com/hasibul-hossin1)  
+- 🌐 Linkedin: [Link](https://facebook.com/hasibul-hossin1)  
+- 🌐 Facebook: [Link](https://facebook.com/hasibulhossin01)  
+- 📞 WhatsApp: [Link](https://wa.me/8801701084479)  
 
 > **Let’s build something amazing together! 🚀**
