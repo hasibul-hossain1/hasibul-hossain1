@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me  
 I'm a passionate MERN Stack Developer from **Bangladesh**, currently sharpening my skills in JavaScript, React, and Node.js.  
-As a proud member of the **Programming Hero Community**, I thrive on building dynamic and user-friendly web applications.
+I thrive on building dynamic and user-friendly web applications.
 
 ---
 
