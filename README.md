@@ -25,11 +25,11 @@ I thrive on building dynamic and user-friendly web applications.
 ## 🛠️ Technologies & Tools  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) 
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=fff)
-![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?style=flat&logo=redux&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff) 
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=fff) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff) 
+![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?style=flat&logo=redux&logoColor=fff)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff) 
