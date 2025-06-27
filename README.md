@@ -1,4 +1,4 @@
-![Hasibul Hossain Shanto Banner](https://raw.githubusercontent.com/ShantoD0/ShantoD0/main/banner1.png)
+![Hasibul Hossain Shanto Banner](https://raw.githubusercontent.com/hasibul-hossain1/hasibul-hossain1/main/banner1.png)
 
 
 # Hi there 👋, I'm Hasibul Hossain 
@@ -41,8 +41,8 @@ I thrive on building dynamic and user-friendly web applications.
 ---
 
 ## 📈 GitHub Stats  
-![ShantoD0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShantoD0&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantoD0&layout=compact&theme=radical)
+![Hasibul Hossain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasibul-hossain1&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul-hossain1&layout=compact&theme=radical)
 
 ---
 
