@@ -7,7 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+web+with+purpose.;Code.+Learn.+Build.+Repeat.;Crafting+clean%2C+fast+UIs.;Dream+big%2C+code+smart.;Passion+meets+JavaScript.;Turning+logic+into+beauty.)](https://git.io/typing-svg)
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=hasibul-hossain1&theme=radical)](https://git.io/streak-stats)
 
+---
 ## 👨‍💻 About Me  
 I'm a passionate MERN Stack Developer from **Bangladesh**, currently sharpening my skills in JavaScript, React, and Node.js.  
 I thrive on building dynamic and user-friendly web applications.
