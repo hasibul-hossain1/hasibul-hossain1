@@ -7,7 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+web+with+purpose.;Code.+Learn.+Build.+Repeat.;Crafting+clean%2C+fast+UIs.;Dream+big%2C+code+smart.;Passion+meets+JavaScript.;Turning+logic+into+beauty.)](https://git.io/typing-svg)
 
 ---
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=hasibul-hossain1&theme=radical)](https://git.io/streak-stats)
+</div>
 
 ---
 ## 👨‍💻 About Me  
