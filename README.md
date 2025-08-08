@@ -49,7 +49,6 @@ I thrive on building dynamic and user-friendly web applications.
 ## 📫 Let's Connect  
 - 💻 GitHub: [Link](https://github.com/hasibul-hossain1)  
 - 🌐 Linkedin: [Link](https://facebook.com/hasibul-hossain1)  
-- 🌐 Facebook: [Link](https://facebook.com/hasibulhossain01)  
 - 📞 WhatsApp: [Link](https://wa.me/8801701084479)  
 
 > **Let’s build something amazing together! 🚀**
