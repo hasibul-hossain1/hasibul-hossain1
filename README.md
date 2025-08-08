@@ -40,7 +40,7 @@ I thrive on building dynamic and user-friendly web applications.
 ---
 
 ## 📈 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=hasibul-hossain1&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hasibul-hossain1&theme=radical)](https://git.io/streak-stats) <br/>
 ![Hasibul Hossain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasibul-hossain1&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul-hossain1&layout=compact&theme=radical)
 
