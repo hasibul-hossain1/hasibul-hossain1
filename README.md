@@ -44,9 +44,7 @@ Always learning new technologies, always shipping real products.
 ---
 
 ## 📈 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=hasibul-hossain1&theme=radical)](https://git.io/streak-stats) <br/>
-![Hasibul Hossain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasibul-hossain1&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul-hossain1&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hasibul-hossain1&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
