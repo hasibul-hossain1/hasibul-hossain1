@@ -50,7 +50,7 @@ Always learning new technologies, always shipping real products.
 
 ## 📫 Let's Connect  
 - 💻 GitHub: [Link](https://github.com/hasibul-hossain1)  
-- 🌐 Linkedin: [Link](https://facebook.com/hasibul-hossain1)  
+- 🌐 Linkedin: [Link]((https://www.linkedin.com/in/hasibul-hossain1/))  
 - 📞 WhatsApp: [Link](https://wa.me/8801701084479)  
 
 > **Let’s build something amazing together! 🚀**
