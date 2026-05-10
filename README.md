@@ -8,8 +8,10 @@
 
 ---
 ## 👨‍💻 About Me  
-I'm a passionate MERN Stack Developer from **Bangladesh**, currently sharpening my skills in JavaScript, React, and Node.js.  
-I thrive on building dynamic and user-friendly web applications.
+I'm a Full Stack Developer from Bangladesh who loves building 
+real-world web applications. I focus on clean architecture, 
+intuitive UIs, and scalable backends. 
+Always learning new technologies, always shipping real products.
 
 ---
 
