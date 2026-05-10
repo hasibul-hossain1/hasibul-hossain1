@@ -2,7 +2,7 @@
 
 
 # Hi there 👋, I'm Hasibul Hossain 
-### Aspiring MERN Stack Developer | Building the Future of the Web
+### Full Stack Dev | Shipping Real-World Web Applications
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+web+with+purpose.;Code.+Learn.+Build.+Repeat.;Crafting+clean%2C+fast+UIs.;Dream+big%2C+code+smart.;Passion+meets+JavaScript.;Turning+logic+into+beauty.;Building+products%2C+not+just+pages.;Code+today.+Impact+tomorrow.;Turning+ideas+into+real+software.;One+commit+closer+to+the+goal.;Shipping+fast.+Breaking+less.)](https://git.io/typing-svg)
 
