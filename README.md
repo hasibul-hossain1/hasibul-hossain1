@@ -16,10 +16,10 @@ Always learning new technologies, always shipping real products.
 ---
 
 ## 🚀 What I'm Up To
-- 🔭 Currently working on full-stack projects with React & Node.js  
-- 🌱 Learning advanced patterns in React, Express, and MongoDB  
-- 💬 Ask me about **JavaScript**, **React**, **Node.js**, or **MongoDB**  
-- ⚡ Fun fact: I love turning complex problems into clean, intuitive solutions  
+- 🔭 Currently building and shipping full-stack web applications  
+- 🌱 Always exploring new tools, frameworks, and better ways to build  
+- 💬 Ask me about **JavaScript**, **React**, **Node.js**, **PostgreSQL**, or **Prisma**  
+- ⚡ Fun fact: I believe the best stack is the one that solves the problem
 
 ---
 
